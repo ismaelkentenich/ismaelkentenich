@@ -21,5 +21,6 @@ I'm Ismael, a Brazilian developer. Welcome to my GitHub playground! 🚀
 
 ##
 <!--START_SECTION:badges-->
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a03999d6-843f-4e8d-b965-addb141a6e15 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
 
