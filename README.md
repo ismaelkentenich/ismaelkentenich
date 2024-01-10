@@ -19,8 +19,10 @@ I'm Ismael, a Brazilian developer. Welcome to my GitHub playground! 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,ps,figma)](https://skillicons.dev)
 
-##
+## 🏆 Badges
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/a03999d6-843f-4e8d-b965-addb141a6e15 "AWS Certified Cloud Practitioner")
+[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/100x100/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](https://www.credly.com/badges/fc8f2f81-8e46-4f9e-8953-5511a0af8a31 "AWS Partner: Accreditation (Technical")
+[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/100x100/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](https://www.credly.com/badges/7c99096e-bd0d-4f32-9674-8cb5670e3b49 "AWS Partner: Cloud Economics Accreditation")
 <!--END_SECTION:badges-->
 
