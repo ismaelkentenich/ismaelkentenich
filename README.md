@@ -19,3 +19,6 @@ I'm Ismael, a Brazilian developer. Welcome to my GitHub playground! 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,ps,figma)](https://skillicons.dev)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
